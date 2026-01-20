@@ -1,0 +1,23 @@
+# GoPay Python SDK 依赖
+# 遵循最小依赖原则 - 只引入必要的依赖
+
+# HTTP请求
+requests>=2.31.0
+
+# 加密和签名
+cryptography>=41.0.0
+
+# 类型检查(开发依赖)
+typing-extensions>=4.7.0
+
+# 测试框架(开发依赖)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.0
+
+# 代码格式化(开发依赖)
+black>=23.7.0
+
+# 代码检查(开发依赖)
+flake8>=6.1.0
+mypy>=1.5.0
