@@ -503,4 +503,6 @@ mypy gopay/
 
 > 加微信群沟通，关注公众号获取最新版本。
 
-微信群: <img width="200" height="200" src="assets/wx_qun.jpg"/>&nbsp;&nbsp;&nbsp;&nbsp;关注公众号: <img width="200" height="200" src="assets/gzh_vip.png"/>
+微信群: <img width="200" height="200" src="assets/wx_qun.jpg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+关注公众号: <img width="200" height="200" src="assets/gzh_vip.png"/>
