@@ -493,14 +493,14 @@ mypy gopay/
 
 ## 赞赏多少是您的心意，感谢支持！
 
-微信赞赏码：<img width="200" height="200" src="assets/wx_pai.jpg" style="object-fit: contain;"/>
+微信赞赏码：<img width="200" height="200" src="assets/wx_pai.png" style="object-fit: contain;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-支付宝赞助码：<img width="200" height="200" src="assets/hzwy_pay.jpg" style="object-fit: contain;"/>
+支付宝赞助码：<img width="200" height="200" src="assets/hzwy_pay.png" style="object-fit: contain;"/>
 
 ---
 
 ## 问题沟通：加微信群沟通，关注公众号获取最新版本。
 
-微信群: <img width="200" height="200" src="assets/wx_qun.jpg" style="object-fit: contain;"/>
+微信群: <img width="200" height="200" src="assets/wx_qun.png" style="object-fit: contain;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 关注公众号: <img width="200" height="200" src="assets/gzh_vip.png" style="object-fit: contain;"/>
