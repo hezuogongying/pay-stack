@@ -493,7 +493,7 @@ mypy gopay/
 
 ## 赞赏多少是您的心意，感谢支持！
 
-微信赞赏码：<img width="200" height="200" src="assets/wx_pai.png" style="object-fit: contain;"/>
+微信赞赏码：<img width="200" height="200" src="assets/wx_pay.png" style="object-fit: contain;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 支付宝赞助码：<img width="200" height="200" src="assets/hzwy_pay.png" style="object-fit: contain;"/>
 
