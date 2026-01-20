@@ -146,7 +146,7 @@ class AlipayClient(PaymentClient):
 
             # 解析响应
             result = response.json()
-            response_key = f"{method.replace(".", "_")}_response"
+            response_key = f"{method.replace('.', '_')}_response"
 
             if response_key not in result:
                 return ResponseData.error_response(

@@ -97,3 +97,17 @@ class NotifyError(GoPayError):
     def __init__(self, message: str, notify_type: Optional[str] = None):
         super().__init__(message, code="NOTIFY_ERROR")
         self.notify_type = notify_type
+
+
+class APIError(GoPayError):
+    """API调用错误"""
+
+    def __init__(
+        self,
+        message: str,
+        endpoint: Optional[str] = None,
+        response_data: Optional[Dict[str, Any]] = None,
+    ):
+        super().__init__(message, code="API_ERROR")
+        self.endpoint = endpoint
+        self.response_data = response_data
