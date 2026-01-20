@@ -22,7 +22,9 @@
       "Bash(git tag:*)",
       "Bash(python:*)",
       "Bash(git remote set-url:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(git checkout:*)",
+      "Bash(git restore:*)"
     ]
   }
 }
